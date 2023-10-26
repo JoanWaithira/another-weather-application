@@ -1,21 +1,10 @@
-/* .App {
+.App {
   text-align: center;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
-.App {
-  font-family: sans-serif;
-  text-align: center;
-}
-form {
-  font-size: 20px;
-}
-ul {
-  list-style: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -46,15 +35,4 @@ ul {
   to {
     transform: rotate(360deg);
   }
-} */
-
-.App {
-  font-family: sans-serif;
-  text-align: center;
-}
-form {
-  font-size: 20px;
-}
-ul {
-  list-style: none;
 }
