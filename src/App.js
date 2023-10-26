@@ -1,5 +1,7 @@
+import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import Search from "./Search";
 
 function App() {
   return (
@@ -7,6 +9,8 @@ function App() {
       <header className="App-header">
         <h1> Hello World</h1>
       </header>
+
+      <Search />
     </div>
   );
 }
